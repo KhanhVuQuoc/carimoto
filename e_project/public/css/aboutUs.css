@@ -1,0 +1,27 @@
+* {
+    text-decoration: none!important;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.image {
+    max-width: 100%;
+    height: auto;
+}
+.fix-row {
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+body {
+    font-size: 14px;
+    line-height: 26px;
+}
+.describe {
+    margin-top: 25px;
+}
+.customlist {
+    list-style: none;
+    padding: 0;
+}
+.customlist i {
+    margin-right: 5px;
+    color: #fd6502 ;
+}
